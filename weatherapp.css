@@ -4,9 +4,10 @@
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
 }
-body{
-    background-color: rgb(39, 38, 38);
-
+body {
+    background: url('https://i.pinimg.com/1200x/5a/6b/50/5a6b5014f1c4e9e04fb8c0d78c72b193.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .box{
     margin: 100px auto 0;
